@@ -1,0 +1,2 @@
+kobuki_description:path_planning_intro/pp_msgs:path_planning_intro/srv_client_plugin:path_planning_intro/unit2_pp:turtlebot_description
+-DCATKIN_DEVEL_PREFIX=/home/user/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install -G Unix Makefiles

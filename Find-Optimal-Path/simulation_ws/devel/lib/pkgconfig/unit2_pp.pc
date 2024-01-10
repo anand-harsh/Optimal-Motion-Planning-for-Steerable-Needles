@@ -1,0 +1,8 @@
+prefix=/home/user/simulation_ws/devel
+
+Name: unit2_pp
+Description: Description of unit2_pp
+Version: 0.2.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
